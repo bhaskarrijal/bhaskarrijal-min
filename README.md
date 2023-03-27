@@ -1,7 +1,7 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbhaskarrijal%2Fbhaskarrijal-min&project-name=minimal-portfolio)
 # Bhaskar Rijal's Minimal Portfolio
 
-This is an open source portfolio page for Bhaskar Rijal.
+This is an open source portfolio page for Bhaskar Rijal. Do star the repository if you like the portfolio page.
 
 ## Features
 
