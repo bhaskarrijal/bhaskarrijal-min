@@ -4,27 +4,27 @@ const Skills = () => {
     const skills = [
         {
             name: 'Frontend with React (Next.js)',
-            description: 'Intermediate'
+            description: 'Unconscious Competence'
         },
         {
             name: 'Backend with Node.js',
-            description: 'Intermediate'
+            description: 'Unconscious Competence'
         },
         {
             name: 'Backend with Python',
-            description: 'Intermediate'
+            description: 'Unconscious Competence'
         },
         {
             name: 'Cloud with AWS',
-            description: 'Intermediate'
+            description: 'Unconscious Competence'
         },
         {
             name: 'System Development with C',
-            description: 'Beginner'
+            description: 'Conscious Competence'
         },
         {
             name: 'Graphics Design',
-            description: 'Intermediate'
+            description: 'Unconscious Competence'
         },
     ]
 
