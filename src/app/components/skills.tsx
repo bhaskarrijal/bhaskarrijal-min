@@ -3,11 +3,15 @@ import React from 'react'
 const Skills = () => {
     const skills = [
         {
-            name: 'React JS',
-            description: 'Beginner'
+            name: 'React (Next.js)',
+            description: 'Intermediate'
         },
         {
-            name: 'Graphics Design',
+            name: 'Node.js',
+            description: 'Intermediate'
+        },
+        {
+            name: 'Python',
             description: 'Intermediate'
         },
     ]
@@ -15,7 +19,7 @@ const Skills = () => {
     return (
         <>
             <div className="flex flex-col gap-4">
-                <h2 className="text-2xl font-medium">Skills</h2>
+                <h2 className="font-medium text-2xl">Skills</h2>
                 <ul className="list-inside">
                     {
                         skills.map((skill, index) => (

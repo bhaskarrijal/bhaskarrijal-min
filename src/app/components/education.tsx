@@ -10,18 +10,18 @@ const Education = () => {
         {
             degree: 'Higher Secondary Education',
             institution: 'National Examination Board',
-            date: '2018 - 2020'
+            date: '2016 - 2018'
         },
         {
-            degree: 'SEE',
+            degree: 'School Leaving Certificate',
             institution: 'National Examination Board',
-            date: '2018'
+            date: '2015'
         }
     ]
     return (
         <>
             <div className="flex flex-col gap-4">
-                <h2 className="text-2xl font-medium">Education</h2>
+                <h2 className="font-medium text-2xl">Education</h2>
                 <ul className="list-inside">
                     {
                         education.map((degree, index) => (
