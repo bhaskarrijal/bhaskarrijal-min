@@ -34,10 +34,11 @@ const Page = () => {
 					className="object-cover w-auto h-32 md:w-32 md:h-auto grayscale"
 					width={300}
 					height={300}
+					placeholder='blur'
 				/>
 			</div>
 			<div className="flex gap-2">
-				<div className="px-2 text-sm rounded-md text-primary bg-primary/10" aria-label="Blood group: O+VE">
+				<div className="px-2 text-sm rounded-md text-primary bg-primary/10" aria-label="DoB: 1999AD">
 					1999
 				</div>
 				<div className="px-2 text-sm rounded-md text-primary bg-primary/10" aria-label="Blood group: O+VE">
